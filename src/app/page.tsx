@@ -72,7 +72,6 @@ interface WeatherData {
   };
 }
 
-//https://api.openweathermap.org/data/2.5/forecast?q=indonesia&appid=1c7a6b8445c7ffc7121cf1bf02bd1e59&cnt=56
 export default function Home() {
   const [place, setPlace] = useAtom(placeAtom);
   const [loadingCity] = useAtom(loadingCityAtom);
