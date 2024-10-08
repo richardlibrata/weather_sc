@@ -33,13 +33,19 @@ npm i date-fns
 npm i jotai
 ```
 
+If there is an error regarding the time value, try installing this as well:
+
+```bash
+npm i date-fns@2.30.0
+```
+
 Or you can check out some dependencies resources in case the installation dependencies code doesn't work:
 
 - [React Icons](https://react-icons.github.io/react-icons/) - popular icons for React projects.
 - [Tailwind Merge](https://www.npmjs.com/package/tailwind-merge?activeTab=readme) - merge Tailwind CSS classes in JS without style conflicts.
 - [React Query](https://tanstack.com/query/v3) - react libraries for managing server state.
 - [Axios](https://axios-http.com/docs/intro) - a promise-based HTTP Client for node.js and the browser.
-- [Date-fns](https://date-fns.org/) - modern JavaScript date utility library.
+- [Date-fns](https://www.npmjs.com/package/date-fns) - provides the most comprehensive, yet simple and consistent toolset for manipulating JavaScript dates in a browser & Node.js.
 - [Jotai](https://jotai.org/) - primitive and flexible state management for React.
 
 ## How to use
